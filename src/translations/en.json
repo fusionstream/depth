@@ -66,7 +66,7 @@
 	"1074":"Description",
 	"1100":"Please enter a name",
 	"1101":"Please do not use any special character (only 0-9 and A-Z)",
-	"1102":"The Configuration Name already exist, choose a new One",
+	"1102":"The Configuration Name already exists, choose a new one",
 	"1103":"Please enter a decimal (e.g. 5.5)",
 	"1104":"Edit Vessel Configuration",
 	"9103":"Username already exists."

@@ -1,0 +1,82 @@
+{
+    "1000":"OpenSeaMap&nbsp;&ndash;&nbsp;Paras Air", - Water Depth
+    "1001":"Rumah", - Home
+    "1002":"Perihal", - About
+    "1003":"Bahasa", - Language
+    "1004":"E-mel", - Email
+    "1005":"Kata laluan", - Password
+    "1006":"Daftar masuk", - Sign in
+    "1007":"CAPTCHA",
+    "1008":"Memperbaharui", - Renew
+    "1009":"Daftar masuk!", - Sign in!
+    "1010":"Format e-mel tidak sah.", - Invalid Email format
+    "1011":"Pengesahan berbeza.", - Verification is different.
+    "1012":"Sekurang-kurangnya 8 aksara.", ,- At least 8 characters.
+    "1013":"CAPTCHA tidak sah.", Invalid captcha
+    "1014":"Lesen", - License
+    "1015":"A agree the <a href=\"#license\" target=\"_blank\">license</a>.",
+    "1016":"Alamat e-mel anda", - Your Email address
+    "1017":"Pengesahan kata laluan", - Password verification
+    "1018":"Daftar", - Register
+    "1019":"Memuat naik  ", - Upload tracks
+    "1020":"Daftar", - Register
+    "1021":"Data paras air", - Depth Data
+    "1022":"Mukadimah",
+    "1023":"Trek-trek",
+    "1024":"Konfigurasi Kapal", - Vessel Configurations
+    "1025":"Informasi tambahan",
+    "1026":"Atribusi", - Attribution
+    "1027":"Ralat pengesahan telah berlaku", - Validation error occured
+    "1028":"Akaun dicipta!", - Account Created!
+    "1029":"Penciptaan akaun anda telah berjaya.", - Akaun anda telah diciptaYour account has been created successfully.",
+    "1030":"Berlaku ralat server.", - server error occured.
+    "1031":"Ralat tidak ketahui. Sila cuba lagi.", - Unknown error has occurred. Please try again.
+    "1032":"Sila log masuk unto mengguna sebahagian ini.", - Please sign in to use this part.
+    "1033":"Log keluar", - Log out
+    "1034":"Peta-peta", - Maps
+    "1035":"Trek-trek", - Tracks
+    "1036":"Amaran!", - Warning!
+    "1037":"The provided data will be processed manually. Therefore it can take some days between an upload and the visualization.",
+    "1038":"Muat naik bermula ...", - Starting upload
+    "1039":"Requesting track ID ...", - 
+    "1040":"Nama Fail", - File Name
+    "1042":"Status", - Status
+    "1043":"Tindakan", - Action
+    "1044":"Sedang memuat naik ...", - Uploading
+    "1045":"Muat naik selesai.", - Upload completed
+    "1046":"Pustaka JavaScript", - JavaScript Libraries
+    "1047":"Imej-imej", - Images
+    "1048":"Carta Skrin Penuh", - Fullscreen Chart
+    "1049":"Jenis Fail", - File Type
+    "1050":"File Corrupt", - File Corrupt
+    "1051":"Praproses", - Preprocessed
+    "1052":"File Format Unknown",
+    "1053":"Salinan", - Duplicate <-- To Duplicate or it is A Duplicate????????????????
+    "1054":"Telah diproses", - Processed
+    "1055":"Tiada data yang boleh digunakan. No usable data",
+    "1066":"Arahan memuat naik", - Upload instructions
+    "1067":"Jenis Fail", - File Type
+    "1068":"Pemampatan", - Compression
+    "1069":"Trek Bekas", - Container Track
+    "1070":"Lesen", - License
+    "9103":"Nama Pengguna digunakan. Username already exists.",
+	"1071":"Nama Konfigurasi KapalVessel Configuration Name",
+	"1072":"Pengesahan tetapan paras air Verfification Depth Settings",
+	"1073":"Kedudukan Sensor", - Sensor positions
+	"1074":"Deskripsi/Keterangan", - description
+	"1100":"Sila masukkan nama", - please enter a name
+	"1101":"Tolong jangan menguna aksara khas. Hanya mengguna aksara seperti 0-9 dan a-z", - (a-zPlease do not use any special character (only 0-9 and A-Z)
+	"1102":"Nama Konfigurasi ini digunakan. Sila berguna nama lain. The Configuration Name already exist, choose a new One",
+	"1103":"Sila memberi perpuluhan (seperti: 5.5)Please enter a decimal (e.g. 5.5)",
+	"1104":"Berubah Konfigurasi Kapal",
+}
+
+
+//1070-1014 is the same
+//9103 repeated twice
+//1014 repeeated twice
+//1018and 1020 is the same
+//1049-1067 same
+//1023-1035 same
+//Where is 1015 used?
+//perihal garis masa simpan perubahan batal
