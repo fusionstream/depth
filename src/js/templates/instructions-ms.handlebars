@@ -1,5 +1,5 @@
-<h4>Upload Instructions</h4>
-Supported Formats are
+<h4>Arahan memuat naik</h4>
+Format yang disokong adalah
 <ul>
     <li>NMEA0183</li>
     <li>Actisense&#174; NMEA 2000</li>
@@ -8,41 +8,41 @@ Supported Formats are
     <li>Winprofile&#174; Sharp Files</li>
 </ul>
 
-Unsupported Formats are
+Format yang tidak disoking adalah
 <ul>
     <li>Generic NMEA 2000 (CAN Recordings)</li>
     <li>Lowrance&#174; Files</li>
 </ul>
 
-Supported Compressions are
+Format pemampatan yang disokong adalah
 <ul>
     <li>ZIP</li>
     <li>GZIP</li>
 </ul>
 
-Unsupported Compressions are
+Format pemampatan yang tidak disokong adalah
 <ul>
     <li>7z</li>
     <li>rar</li>
     <li>tar</li>
 </ul>
 
-<h5>File Format Notes</h5>
+<h5>Nota Format Fail</h5>
 <ol>
     <li>NMEA0183</li>
     <ol>
         <li>
-Sentences may be prefixed with an accurate time but need not be prefixed:
-Both forms of sentences are processed as well:
+Ayat NMEA boleh diawalan dengan waktu yang tepat tetapi tidak semestinya diawalan:
+Kedua-dua format ayat boleh diproses
         <pre>2013-06-29 13:58:31.120664: $GPGSV,2,1,08,15,22,186,30,04,20,091,28,25,35,267,32,17,16,040,31*7A
 $GPGSV,2,1,08,15,22,186,30,04,20,091,28,25,35,267,32,17,16,040,31*7A</pre>The accurate time is not being analyzed, yet.
         </li>
         <li>
-        The sentence (i.e. GLL/RMC or DPT/DBT) with the highest update rate and most measurements is chosen to be displayed.
+        Ayat (i.e. GLL/RMC or DPT/DBT) yang berada kemaskini tertinggi dan berada terbanyak ukuran ialah ayat yang akan ditunjukan.
         </li>
     </ol>
     <li>NMEA2000<br>
-    The binaray Actisense *.dat format can be read. The Rapid Position Update PGN is not being used right know as it does not have the measurement time.
+    Fail format binari Actisense *.dat format boleh dibaca. Rapid Position Update PGN tidak dipakai sebab tiada waktu ukuran.
     </li>
     <li>Raymarine&#174; FSH<br>
 The contents of these recordings miss substantial information such as the measurment time and a regular depth measurment.
